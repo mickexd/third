@@ -29,10 +29,8 @@ const Services = () => {
               <h4 className="font-semibold text-xl mb-2">Realidad Virtual</h4>
               <p>
                 Adaptamos tu proyecto a realidad virtual arquitectónica que
-                permite visualizar y experimentar espacios y objetosde manera
-                interactiva, en tiempo real y desde cualquier lugar. Esto
-                permite vivir la experiencia del lugar si necesidad de pisar un
-                showroom fisico y sin tener que salir de casa.
+                permite visualizar y experimentar espacios y objetos de manera
+                interactiva, en tiempo real y desde cualquier lugar.
               </p>
             </div>
           </div>
@@ -47,12 +45,9 @@ const Services = () => {
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">Realidad Aumentada</h4>
               <p>
-                Ofrecemos la realidad aumentada arquitectónica como un servicio
-                que permite visualizar y experimentar espacios y objetos en 3D
-                de manera interactiva, en tiempo real y en el lugar exacto donde
-                se van a construir. Permite a nuestros clientes experimentar y
+                Ofrecemos la realidad aumentada arquitectónica la cual permite a nuestros clientes experimentar y
                 personalizar sus proyectos de manera precisa y segura,
-                reduciendo errores y costos.
+                reduciendo errores y costos, desde el mismo lugar donde se construye.
               </p>
             </div>
           </div>
